@@ -1,7 +1,6 @@
 # Moneta - Personal Finance Dashboard 💰📊
 
-Moneta is a **full-stack personal finance dashboard** designed to help users track their **income, expenses, transactions, and financial trends** with an intuitive UI and real-time data visualization.
-
+Moneta is a smart personal finance tool designed to simplify expense tracking and budgeting. With features like real-time income vs. expenses analysis, interactive charts, CSV uploads, and secure authentication, it provides a seamless way to gain insights into financial habits.
 ---
 
 ## **📌 Key Features & Screenshots**
@@ -12,7 +11,7 @@ The dashboard provides a **real-time financial summary**, including:
 - **Interactive charts & visualizations**
 - **Remaining balance calculations**
 
-![Dashboard ](screenshots/dashboard.png)
+![Dashboard](app/screenshots/dashboard.png)
 
 ---
 
@@ -22,7 +21,7 @@ Easily add, filter, and categorize transactions in the transactions page.
 - **Search for specific transactions**
 - **CSV Import for bulk uploads**
 
-![Transactions ](screenshots/transactions.png)
+![Transactions ](app/screenshots/transactions.png)
 
 ---
 
@@ -32,7 +31,7 @@ View and manage **all linked accounts** in one place.
 - **Filter transactions by account**
 - **Overview of balances per account**
 
-![Accounts ](screenshots/accounts.png)
+![Accounts ](app/screenshots/accounts.png)
 
 ---
 
@@ -42,7 +41,7 @@ Organize expenses into categories to **better understand your spending habits**.
 - **Automatic categorization with CSV uploads**
 - **Custom category creation**
 
-![Categories ](screenshots/categories.png)
+![Categories ](app/screenshots/categories.png)
 
 ---
 
@@ -51,7 +50,7 @@ Upload transactions from a CSV file with **auto-categorization** and mapping.
 - **Supports structured CSV file uploads**
 - **Preview and validate data before import**
 
-![CSV Upload](screenshots/csv-upload.png)
+![CSV Upload](app/screenshots/csv-upload.png)
 
 ---
 
@@ -62,10 +61,10 @@ User authentication is powered by **Clerk**, enabling:
 - **Secure user data storage**
 
 🔹 **Login Page:**
-![Clerk Login ](screenshots/clerk1.png)
+![Clerk Login ](app/screenshots/clerk1.png)
 
 🔹 **Google Authentication:**
-![Google Auth ](screenshots/clerk2.png)
+![Google Auth ](app/screenshots/clerk2.png)
 
 ---
 
