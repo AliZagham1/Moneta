@@ -8,7 +8,7 @@ import { subDays, parse  } from 'date-fns';
 import { transactions , insertTransactionSchema, categories, accounts} from '@/db/schema';
 
 import { clerkMiddleware, getAuth } from '@hono/clerk-auth';
-import { eq, and, inArray, gte, lte, desc,sql } from 'drizzle-orm';
+import { eq, and, inArray, gte, lte, desc } from 'drizzle-orm';
 import { createId } from '@paralleldrive/cuid2';
 
 const app = new Hono()

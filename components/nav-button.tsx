@@ -1,6 +1,5 @@
 
 import Link from "next/link";
-import {useMedia} from "react-use"
 
 import { cn } from "@/lib/utils"
 import { Button } from "./ui/button";
