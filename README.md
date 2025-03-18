@@ -68,3 +68,8 @@ User authentication is powered by **Clerk**, enabling:
 ![Google Auth ](screenshots/clerk2.png)
 
 ---
+
+## 🚀 Future Enhancements
+- ✅ **Plaid Integration** – Automatically fetch transactions.  
+- ✅ **Budgeting System** – Set spending limits.  
+- ✅ **Multi-Currency Support**  
