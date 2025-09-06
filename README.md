@@ -1,7 +1,9 @@
 # Moneta - Personal Finance Dashboard 💰📊
 
 Moneta is a smart personal finance tool designed to simplify expense tracking and budgeting. With features like real-time income vs. expenses analysis, interactive charts, CSV uploads, and secure authentication, it provides a seamless way to gain insights into financial habits.
----
+
+## Live Demo
+🎥 [Watch the Demo Video](https://youtu.be/1wmJ0L3CIXk)
 
 ## **📌 Key Features & Screenshots**
 
@@ -11,8 +13,6 @@ The dashboard provides a **real-time financial summary**, including:
 - **Interactive charts & visualizations**
 - **Remaining balance calculations**
 
-![Dashboard](app/screenshots/dashboard.png)
-
 ---
 
 ### **📄 Transactions – Manage Your Finances**
@@ -21,7 +21,6 @@ Easily add, filter, and categorize transactions in the transactions page.
 - **Search for specific transactions**
 - **CSV Import for bulk uploads**
 
-![Transactions ](app/screenshots/transactions.png)
 
 ---
 
@@ -31,7 +30,6 @@ View and manage **all linked accounts** in one place.
 - **Filter transactions by account**
 - **Overview of balances per account**
 
-![Accounts ](app/screenshots/accounts.png)
 
 ---
 
@@ -41,16 +39,12 @@ Organize expenses into categories to **better understand your spending habits**.
 - **Automatic categorization with CSV uploads**
 - **Custom category creation**
 
-![Categories ](app/screenshots/categories.png)
-
 ---
 
 ### **📂 CSV Upload – Bulk Transaction Management**
 Upload transactions from a CSV file with **auto-categorization** and mapping.
 - **Supports structured CSV file uploads**
 - **Preview and validate data before import**
-
-![CSV Upload](app/screenshots/csv-upload.png)
 
 ---
 
@@ -59,12 +53,6 @@ User authentication is powered by **Clerk**, enabling:
 - **Sign in with Google**
 - **Session management**
 - **Secure user data storage**
-
-🔹 **Login Page:**
-![Clerk Login ](app/screenshots/clerk1.png)
-
-🔹 **Google Authentication:**
-![Google Auth ](app/screenshots/clerk2.png)
 
 ---
 
